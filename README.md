@@ -1,5 +1,5 @@
 <h1>Hi, I'm Freddy! 
-  IT Support Engineer with a focus on Cybersecurity</h1>
+  💼 IT Support Engineer | 🔐 Cybersecurity-Focused | 📜 Security+ Certified</h1>
 
 <h2>👨‍💻 Projects:</h2>
 
