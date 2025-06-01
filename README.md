@@ -2,7 +2,7 @@
   
   💼 IT Support Engineer | 🔐 Cybersecurity-Focused | 📜 Security+ Certified</h1>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a4661bb-26ff-4d58-a225-e2358f277cd9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>’
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a4661bb-26ff-4d58-a225-e2358f277cd9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h2>👨‍💻 Projects:</h2>
 
